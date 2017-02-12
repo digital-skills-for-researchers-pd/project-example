@@ -25,13 +25,12 @@ Related policies | *[Be aware of the University Researcher Code of Conduct, spec
 ------------ | ------------
 
 
-## FUNDING (if applicable) 
+## FUNDING (if applicable)       
 
-               |          
-------------  | ------------ 
 Funding agency | *funding agency name*
 Funding ID | *funder's ID*
 Research Office ID | *research office project code*
+------------  | ------------ 
 
 ## ETHICS AND PRIVACY
 
