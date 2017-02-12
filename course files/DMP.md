@@ -22,6 +22,7 @@ ADD AS NEEDED | *name* | *affiliation* | *email* | *upi* | *ORCID*
 ## POLICIES AND GUIDANCE
 Related policies | [Be aware of the University Researcher Code of Conduct, specifically “4.5 Research Findings: Researchers should share data and findings openly and as promptly as possible, as soon as they have had an opportunity to establish priority and ownership claims and subject to any intellectual property requirements and contractual obligations.” as you produce your DMP.
 List any other relevant funder, institutional (University Policy Hub, Research Open Access), departmental or group policies on data management, data sharing and data security. Some of the information you give in the remainder of the DMP will be determined by the content of other policies. If so, point/link to them here.]
+------------ | ------------ 
 
 
 
