@@ -73,9 +73,8 @@ Links | *[Links to files (e.g. DMP, README.txt, geospatial (.kml), etc.) to be p
 
 ## OWNERSHIP, COPYRIGHT & IP
 
-. | .
+The copyright and other IP is owned/held by: | (indicate)
 ------------  | ------------ 
-The copyright and other IP is owned/held by: | 
 The University of Auckland (normal situation for research undertaken by university staff) | *INDICATE*
 The student (research by research student in the normal course of study, which does not fall into any of the other categories.)| *INDICATE*
 Joint ownership (research conducted in collaboration: copyright and IP ownership are documented in an agreement between the organisations) | *INDICATE*
@@ -98,7 +97,7 @@ Data must be retained after submission of thesis or publication of results for a
 Until patient reaches 26 years of age, and at least 10 after last treatment (for clinical research involving children) | 
 21 years from the date of filing a patent related to this research | 
 Other specified time | 
-Based on the above, data must be kept until at least | *[DD/MM/YYYY]
+Based on the above, data must be kept until at least | *[DD/MM/YYYY]*
 
 ## DATA PUBLISHING AND DISCOVERY
 
@@ -111,8 +110,7 @@ Outline how data will be prepared and where it will be published. | *[Consider: 
 
 ISSUE | DESCRIPTION
 ------------  | ------------ 
-What is the long-term preservation plan for the dataset? |*[Publishing with DOI should offer persistent access over years, not necessarily decades. Nor does a DOI actively address any needs to transform or migrate data from obsolete formats over time.
-Consider: Does your data offer something irreplaceable (actually or practically) that is of value to society over decades to come? If unsure, please contact the Library. / Provide information or guidance on how datasets that have long-term value will be preserved and curated beyond the lifetime of the project. Indicate likely areas of risk (i.e. proprietary formats). If you do not propose to use an established repository, the data management plan should demonstrate that resources and systems will be in place to enable the data to be curated effectively beyond the lifetime of the project. Document any discussion of long–term archive with academic units or other relevant staff.]*
+What is the long-term preservation plan for the dataset? |*[Publishing with DOI should offer persistent access over years, not necessarily decades. Nor does a DOI actively address any needs to transform or migrate data from obsolete formats over time. Consider: Does your data offer something irreplaceable (actually or practically) that is of value to society over decades to come? If unsure, please contact the Library. / Provide information or guidance on how datasets that have long-term value will be preserved and curated beyond the lifetime of the project. Indicate likely areas of risk (i.e. proprietary formats). If you do not propose to use an established repository, the data management plan should demonstrate that resources and systems will be in place to enable the data to be curated effectively beyond the lifetime of the project. Document any discussion of long–term archive with academic units or other relevant staff.]*
 
 ## RDM/DMP RESPONSIBILITIES & RESOURCES
 
